@@ -1,0 +1,13 @@
+{
+  "name": "dependTest1",
+  "description": "dependTest1",
+  "main": "index.html",
+
+  "license": "MIT",
+  "ignore": [
+    "bower_components"
+  ],
+  "dependencies": {
+    "jquery": "^2.2.2"
+  }
+}
