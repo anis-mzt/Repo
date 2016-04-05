@@ -1,7 +1,7 @@
 {
   "name": "dependTest3",
   "description": "dependTest3",
-  "main": "index.html",
+  "main": "jqueryPage.html",
 
   "license": "MIT",
   "ignore": [
